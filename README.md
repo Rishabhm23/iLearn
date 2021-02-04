@@ -1,2 +1,2 @@
 # iLearn
-A fully responsive website using HTML, CSS, and Javascript.
+A fully responsive website that has been made using HTML, CSS, and Javascript.
